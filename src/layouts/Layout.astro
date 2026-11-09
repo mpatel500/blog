@@ -1,0 +1,31 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Footer from "../components/Footer.astro";
+import SideNav from "../components/SideNav.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+
+const { title = SITE_TITLE, description = SITE_DESCRIPTION } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+    <head>
+        <BaseHead title={title} description={description} />
+    </head>
+    <body>
+        <div class="flex flex-row mt-32 mb-40 max-w-5xl mx-auto">
+            <div class="flex flex-col w-[200px] shrink-0 gap-6 items-start">
+                <!-- TODO: replace with your avatar/icon (e.g. an <img>) -->
+                <div class="size-16 rounded-full bg-gray-200" aria-hidden="true"></div>
+                <SideNav />
+            </div>
+            <main class="flex flex-col flex-1 min-w-0 gap-6 items-start">
+                <div class="h-16 flex items-center text-xl font-semibold">
+                    Mukesh Patel
+                </div>
+                <slot />
+                <Footer />
+            </main>
+        </div>
+    </body>
+</html>
