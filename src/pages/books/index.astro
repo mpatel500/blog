@@ -10,7 +10,7 @@ const books = (await getCollection("book")).sort(
 
 <Layout title="Book">
     {books.map((book) => (
-        <a href={`/book/${book.id}`}>
+        <a href={`/books/${book.id}`}>
             {book.data.title} - <FormattedDate date={book.data.pubDate} />
         </a>
     ))}
