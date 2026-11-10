@@ -15,8 +15,16 @@ const { title = SITE_TITLE, description = SITE_DESCRIPTION } = Astro.props;
     <body>
         <div class="flex flex-row mt-32 mb-40 max-w-5xl mx-auto">
             <div class="flex flex-col w-[200px] shrink-0 gap-6 items-start">
-                <!-- TODO: replace with your avatar/icon (e.g. an <img>) -->
-                <div class="size-16 rounded-full bg-gray-200" aria-hidden="true"></div>
+                <div
+                    class="size-16 rounded-full bg-gray-200"
+                    aria-hidden="true"
+                >
+                    <img
+                        class="size-16 rounded-full bg-gray-200 object-cover"
+                        src="/mukesh.webp"
+                        alt="Mukesh Patel"
+                    />
+                </div>
                 <SideNav />
             </div>
             <main class="flex flex-col flex-1 min-w-0 gap-6 items-start">
