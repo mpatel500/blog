@@ -1,0 +1,6 @@
+---
+title: The Power and the Glory
+author: Graham Greene
+pubDate: 2024/11/25
+---
+An incredibly compelling read. Greene explores idealism, religious fanatacism, skepticism and the difference between our reality and our representations of it. The story centres around a wordly priest, the 'whisky priest', as he travels tries to find sanctuary. He is constantly on the run and persecuted by the Mexican government. As he tries to escape he confronts his sins, reflects upon them and explores what it truly is to be a priest when you've sinned, how you can live -- as most of us are -- as a bundle of contradictions.<br/><br/>The richness of this novel is in his interactions between the villagers who are sheltering him, a 'Judas'-like figure that he meets during the way and the police chasing him. Greene's writing and insights are what makes this novel and I'd thoroughly recommend this book to others.<br/><br/>My favourite quote;<br/><br/><blockquote><br/>“When you visualized a man or a woman carefully, you could always begin to feel pity . . . that was a quality God's image carried with it . . . when you saw the lines at the corners of the eyes, the shape of the mouth, how the hair grew, it was impossible to hate. Hate was just a failure of imagination.”<br/></blockquote>

@@ -1,0 +1,6 @@
+---
+title: The Sign of Four
+author: Arthur Conan Doyle
+pubDate: 2023/02/18
+---
+A well-crafted mystery with with ecclectic group of villians. Sherlock Holmes is at it again with another fresh mystery. I've knocked this down to three stars because I didn't particularly care for the explanation of the story after the suspect had been caught. It was rather long-winded and didn't provide much more to the story than Holmes had already pointed our during the investigation.<br/><br/>I enjoy trying to solve murder mysteries as they're playing out, however with this book it seemed like you weren't able to solve it. Holmes simply states a series of deductions and follow-ups that he made in private at the end to reveal how he unravelled the mystery. This is interesting in itself but also robs me of the classic murder mystery experience and instead focusing on the competence of this brilliant detective.<br/><br/>Overall I think the story was almost as good as one could expect given it's only around a hundred and fifty pages. It has intrigue, twists, surprises and the continual build-up of an almost buddy cop relationship between Watson and Holmes. If the story could be more fleshed out and I could be made to care for more of the characters I would no doubt rate this higher but as it is, it's a very enjoyable read.

@@ -21,7 +21,7 @@ const book = defineCollection({
 	loader: glob({ base: './src/content/book', pattern: '**/*.{md,mdx}' }),
 	schema: ({ image }) =>
 		z.object({
-			title: z.string(),
+			title: z.coerce.string(),
 			author: z.string(),
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),

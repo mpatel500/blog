@@ -1,0 +1,6 @@
+---
+title: Jonathan Strange & Mr Norrell
+author: Susanna Clarke
+pubDate: 2022/12/31
+---
+I wish I could give this book 3.5 stars.<br/><br/>As with most longer books it takes a while to get going. Until roughly two hundred pages in I wasn't particularly interested in what was going on, despite some interesting character development. After that it becomes considerably more interesting, particularly when the character of Jonathan Strange is involved. <br/><br/>The characters of this book are what I enjoy the most. They are wonderfully done and the relationship between the two main characters feels natural and full of disharmony. Set in the an alternative version of early 1800s Britian where magic is real, Clarke clearly has fallen in love with the world she has created. This passion flows into every page. For me this was too much at the beginning, before I had even invested any time into the story there were footnotes everywhere explaining the minute details of what was happening in the book. Some readers will love this, I personally did not.<br/><br/>This was an enjoyable read by an Author who has fallen in love with the characters and world they have created. If you do too, you will love this book. For me I could not help thinking that the story could have been told more succinctly and with less tangents.<br/><br/>

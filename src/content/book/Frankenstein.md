@@ -1,0 +1,6 @@
+---
+title: Frankenstein
+author: Mary Wollstonecraft Shelley
+pubDate: 2023/03/31
+---
+Deservedly a classic.<br/><br/>This is only my first reading of this book and to me it feels like a twist on the creation myth. It puts forward a world where the Creator and the Creation are not imbued solely by goodness and virtue, but instead contain within themselves facets of Satan. Frankenstein himself is the creator, driven by ambition and curiosity to steal the essence of life itself from the gods, conjuring similarities to Promoetheus, and as such brings the wrath of not the gods, but the creature itself.<br/><br/>Frankenstein's monster poses an interesting question on destiny and if we can avoid despair and darkness when it imbues every interaction you have. Were they to blame for their wickedness or were they destined to be wicked due to the circumstances of their creation?<br/>Shelley quotes this from Paradise Lost, evoking the same question;<br/><blockquote><br/>Did I request thee, Maker from my clay<br/>To mould me Man, did I solicit thee<br/>From darkness to promote me?<br/></blockquote><br/>There are many quotes and themes from this book that I haven't been able to discern on my first read. I have no doubt I'll read this again and I hope to update this review when I do.

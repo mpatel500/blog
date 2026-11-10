@@ -11,8 +11,7 @@ const books = (await getCollection("book")).sort(
 <Layout title="Book">
     {books.map((book) => (
         <a href={`/book/${book.id}`}>
-            {book.data.title}, {book.data.author} -{" "}
-            <FormattedDate date={book.data.pubDate} />
+            {book.data.title} - <FormattedDate date={book.data.pubDate} />
         </a>
     ))}
 </Layout>

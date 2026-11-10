@@ -1,0 +1,6 @@
+---
+title: The Seven Moons of Maali Almeida
+author: Shehan Karunatilaka
+pubDate: 2023/04/28
+---
+An incredible book that never lets you ground your feet.<br/><br/>Reading this book is an incredible ride. The writing style took a little getting used to. It's purposely conversational and moves quickly. It's easy to be thrown off the ride before it even starts. I'd urge  readers to stick with it, the further you get the more plot points you have to anchor yourself and it feels less trippy. It also blends beautifully with the story. The protagonist is in a race against time to find out who their killer was before seven moons have passed. This makes the prose incredibly effective, refusing to allow the reader to take a rest, whisking them across the pages with the protagonist.<br/><br/>I think because of the fantastical nature of this story, the real life atrocities that are mentioned hit the reader even harder. You're brought back to Earth with a thump. The story is set in Sri Lanka around the 1980s. Terrible atrocities were being committed and this book helps shine a light on them. It does so in a spectacular and harrowing way. I would strongly urge the reader to look up the background of what's mentioned in this book, if for no other reason than helping to colour in the setting of the book.<br/><br/>An absolute must-read.
