@@ -1,5 +1,5 @@
 ---
-title: Mans Search for Meaning
+title: Man's Search for Meaning
 author: Viktor E. Frankl
 pubDate: 2024/06/22
 ---

@@ -1,5 +1,5 @@
 ---
-title: 23 Things They Dont Tell You About Capitalism
+title: 23 Things They Don't Tell You About Capitalism
 author: Ha-Joon Chang
 pubDate: 2023/04/09
 ---

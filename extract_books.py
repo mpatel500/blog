@@ -7,6 +7,7 @@ Columns:
 - Extract Title, Author and Review
 '''
 import csv
+import string
 
 HEADINGS = ['Book Id', 'Title', 'Author', 'Author l-f', 'Additional Authors', 'ISBN', 'ISBN13', 'My Rating', 'Publisher', 'Binding', 'Number of Pages', 'Year Published', 'Original Publication Year', 'Date Read', 'Date Added', 'Bookshelves', 'Bookshelves with positions', 'Exclusive Shelf', 'My Review', 'Spoiler', 'Private Notes', 'Read Count', 'Owned Copies']
 
@@ -42,7 +43,7 @@ def clean_title(title: str):
     if open_bracket != -1:
         title = title[:open_bracket]
     title = title.rstrip()
-    title = ''.join([char for char in title if char.isalnum() or char in (' ', '-', '&', ',', '.')])
+    title = ''.join([char for char in title if char.isalnum() or char in (' ', '-', '&', ',', '.', '\'')])
     return title
 
 

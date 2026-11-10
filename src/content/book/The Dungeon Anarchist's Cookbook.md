@@ -1,5 +1,5 @@
 ---
-title: The Dungeon Anarchists Cookbook
+title: The Dungeon Anarchist's Cookbook
 author: Matt Dinniman
 pubDate: 2026/02/05
 ---

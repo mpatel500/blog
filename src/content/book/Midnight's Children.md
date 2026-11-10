@@ -1,5 +1,5 @@
 ---
-title: Midnights Children
+title: Midnight's Children
 author: Salman Rushdie
 pubDate: 2025/03/10
 ---

@@ -1,5 +1,5 @@
 ---
-title: Carls Doomsday Scenario
+title: Carl's Doomsday Scenario
 author: Matt Dinniman
 pubDate: 2026/01/20
 ---
