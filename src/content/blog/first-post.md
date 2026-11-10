@@ -1,6 +1,6 @@
 ---
 title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
+description: 'My Very First Post'
 pubDate: 'Jul 08 2022'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
