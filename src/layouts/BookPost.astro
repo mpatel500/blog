@@ -9,11 +9,11 @@ const { title, author, pubDate } = Astro.props;
 ---
 
 <Layout title={title} author={author}>
-    <div class="pb-10">
+    <div class="pb-10 w-full">
         {title}
         {" - "}
         <FormattedDate date={pubDate} />
-        <article class="prose">
+        <article class="prose max-w-full md:max-w-[65ch]">
             <slot />
         </article>
     </div>
