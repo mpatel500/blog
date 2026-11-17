@@ -3,14 +3,14 @@ import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import FormattedDate from "../../components/FormattedDate.astro";
 
-const books = (await getCollection("book")).sort(
+const books = (await getCollection("reviews")).sort(
     (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 ---
 
-<Layout title="Book">
+<Layout title="Book Reviews">
     {books.map((book) => (
-        <a href={`/books/${book.id}`}>
+        <a href={`/reviews/${book.id}`}>
             {book.data.title} - <FormattedDate date={book.data.pubDate} />
         </a>
     ))}

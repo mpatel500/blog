@@ -3,7 +3,7 @@ import { type CollectionEntry, getCollection, render } from "astro:content";
 import BookPost from "../../layouts/BookPost.astro";
 
 export async function getStaticPaths() {
-    const posts = await getCollection("book");
+    const posts = await getCollection("reviews");
     return posts.map((post) => ({
         params: { slug: post.id },
         props: post,

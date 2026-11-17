@@ -17,8 +17,8 @@ const blog = defineCollection({
 		}),
 });
 
-const book = defineCollection({
-	loader: glob({ base: './src/content/book', pattern: '**/*.{md,mdx}' }),
+const reviews = defineCollection({
+	loader: glob({ base: './src/content/reviews', pattern: '**/*.{md,mdx}' }),
 	schema: ({ image }) =>
 		z.object({
 			title: z.coerce.string(),
@@ -28,4 +28,4 @@ const book = defineCollection({
 			heroImage: z.optional(image()),
 		}),
 });
-export const collections = { blog, book };
+export const collections = { blog, reviews };
